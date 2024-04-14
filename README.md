@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **python and bash**
 
-- 📫 How to reach me **whoamitty@duck.com (only pro)**
+- 📫 How to reach me **whoamitty+github@proton.me (only pro)**
 
 - ⚡ Fun fact **I practice parkour, I like drawing and freestyle dancing.**
 
