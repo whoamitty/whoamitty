@@ -27,3 +27,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=whoamitty&" alt="whoamitty" /></p>
 
+
+
+## tasks
+I delete all if next step dosn't done in 2025
+
+- [x] Born
+- [ ] Got a job
+- [ ] Create my ecosystem like apple and google
+- [ ] Make the world tour
+- [ ] Have my own drawing style
+- [ ] Married
+- [ ] Have children
+- [ ] Die
+
+
