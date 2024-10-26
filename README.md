@@ -36,7 +36,7 @@
 
 
 ## Tasks
-I delete all if next step dosn't done in 2025
+I delete all if next step doesn't done in 2025
 
 - [x] Born
 - [ ] Got a job
