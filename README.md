@@ -41,6 +41,11 @@ I delete all if next step doesn't done in 2025
 - [x] Born
 - [ ] Got a job
 - [ ] Create my ecosystem like apple and google
+- [ ] Have a good calisthenics level
+    - [ ] Walk  on hands
+    - [ ] Handstand
+    - [ ] Planche
+    - [ ] Human Flag
 - [ ] Make the world tour
 - [ ] Have my own drawing style
 - [ ] Married
