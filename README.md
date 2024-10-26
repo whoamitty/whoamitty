@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm whoamitty</h1>
 <h3 align="center">A passionate french student in development</h3>
 
+* [About Me](#about-me)
+* [Tasks](#tasks)
+
+
+## About Me
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whoamitty&label=Profile%20views&color=0e75b6&style=flat" alt="whoamitty" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoamitty" alt="whoamitty" /></a> </p>
@@ -29,7 +35,7 @@
 
 
 
-## tasks
+## Tasks
 I delete all if next step dosn't done in 2025
 
 - [x] Born
