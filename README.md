@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=whoamitty" alt="whoamitty" /></a> </p>
 
-- 🔭 I’m currently working on [shcoolar project](https://github.com/BTS-SIO-GUYANE/FORUM-BTS-SIO)
+- 🔭 I’m currently working on ...
 
 - 💬 Ask me about **python and bash**
 
@@ -51,5 +51,3 @@ I delete all if next step doesn't done in 2025
 - [ ] Married
 - [ ] Have children
 - [ ] Die
-
-
