@@ -48,6 +48,5 @@ I delete all if next step doesn't done in 2025
     - [ ] Human Flag
 - [ ] Make the world tour
 - [ ] Have my own drawing style
-- [ ] Married
-- [ ] Have children
-- [ ] Die
+- [ ] [Be a Lighthouse keeper](https://www.youtube.com/watch?v=6X-OH_rSYSc)
+- [ ] Die (but the eternal life is mine tanks god)
