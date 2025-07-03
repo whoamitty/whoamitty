@@ -26,7 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=bash,git,python,linux,nodejs" />
 </p>
 
