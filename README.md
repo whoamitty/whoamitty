@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **python and bash**
 
-- 📫 How to reach me **whoamitty+gh@gmail.com (only pro)**
+- 📫 How to reach me **whoamitty.pro+gh@gmail.com (only pro)**
 
 - ⚡ Fun fact **I practice parkour, I like drawing and freestyle dancing.**
 
