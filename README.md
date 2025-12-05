@@ -43,7 +43,7 @@
 I delete all if next step doesn't done in 2025
 
 - [x] Born
-- [ ] Got a job
+- [x] Got a job
 - [ ] Create my ecosystem like apple and google
 - [ ] Have a good calisthenics level
     - [ ] Walk  on hands
